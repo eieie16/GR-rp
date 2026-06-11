@@ -1,0 +1,11 @@
+[DEFAULT]
+BASEURL=http://www.gamersky.com/
+[InternetShortcut]
+URL=http://www.gamersky.com/?tag=down
+Modified=00900589B12BCB01C6
+IconFile=http://www.gamersky.com/favicon.ico
+IconIndex=1
+IDList=
+HotKey=0
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
